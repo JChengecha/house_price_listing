@@ -12,6 +12,12 @@ The purpose of the study will be to find a commendable house location based on a
 
 ## Authors
 [Nathan Njonge](nathanwaithaka24@gmail.com)
+
+
 [Njoki Mbugua](nyanjoro@gmail.com)
+
+
 [Joy Kiriba](joykiriba@gmail.com)
+
+
 [Joseph Kirika](josephkirika31@gmail.com)
